@@ -35,9 +35,12 @@ Santander Bank is asking [Kagglers](https://www.kaggle.com/c/santander-customer-
 
 1. Features informations:
    - The dataset has numeric and anonymous variables;
-   -  The target variable is TARGET column: &emsp;
-     - 0 stands for Satisfied Customers;
-     - 1 stands for Dissatisfied Customers.
+
+   - The target variable is TARGET column: &emsp;
+
+     &emsp;- 0 stands for Satisfied Customers;
+
+     &emsp;- 1 stands for Dissatisfied Customers.
 
 2. Datasets: 
    - train.csv — the training dataset 
