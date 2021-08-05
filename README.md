@@ -7,9 +7,9 @@ Santander Customer Satisfaction
 </h1>
 ![Santander Customer Satisfaction](https://i.imgur.com/o8J2iv4.png)
 
-
 <h4 align="center">
-Building a machine learning model to accurately forecast inventory demand based on historical sales datapredict if a customer is satisfied or dissatisfied with their banking experience </h4>
+Building a machine learning model to accurately predict if a customer is satisfied or dissatisfied with their banking experience </h4>
+
 
 
 
