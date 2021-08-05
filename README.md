@@ -5,7 +5,9 @@
 <h1 align="center">
 Santander Customer Satisfaction
 </h1>
-![Santander Customer Satisfaction](https://i.imgur.com/o8J2iv4.png)
+<p align="center">
+  <img alt="Agenda" src="Project3_Santander.png" width="100%">
+</p>
 
 <h4 align="center">
 Building a machine learning model to accurately predict if a customer is satisfied or dissatisfied with their banking experience </h4>
